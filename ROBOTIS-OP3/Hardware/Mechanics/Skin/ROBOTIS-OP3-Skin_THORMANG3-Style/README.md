@@ -1,1 +1,1 @@
-<img src="https://github.com/ROBOTIS-GIT/ROBOTIS-Documents/blob/master/wiki-images/ROBOTIS-OP3/op3_skin_data.png?raw=true" height="30%"/>
+<img src="https://github.com/ROBOTIS-GIT/ROBOTIS-OP-Series-Data/blob/master/ROBOTIS-OP3/Hardware/Mechanics/Skin/ROBOTIS-OP3-Skin_THORMANG3-Style/ROBOTIS-OP3-Skin_THORMANG3-Style.png?raw=true" height="30%"/>
